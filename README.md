@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Truptiben Kapaletiya
 - 👀 I’m interested in readings, codeing, crafts.
-- 🌱 I’m currently learning Pyhton from Udemy.
+- 🌱 I’m currently learning about python and Database for data analysis.
 - 💞️ I’m looking to collaborate on Linkedin so i can able to showcase my learing progress.
 - 📫 How to reach me:- Linkedin
 
