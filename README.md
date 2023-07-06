@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Truptiben Kapaletiya
-- 👀 I’m interested in readings, codeing, crafts.
-- 🌱 I’m currently learning about python and Database for data analysis.
-- 💞️ I’m looking to collaborate on Linkedin so i can able to showcase my learing progress.
+- 👀 I’m interested in reading, coding, and crafts.
+- 🌱 I’m currently learning about Python and Databases for data analysis.
+- 💞️ I’m looking to collaborate on Linkedin so I can able to showcase my learning progress.
 - 📫 How to reach me:- Linkedin
 
 <!---
